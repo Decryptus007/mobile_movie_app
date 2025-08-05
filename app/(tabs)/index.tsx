@@ -70,14 +70,6 @@ export default function Index() {
                   horizontal
                   showsHorizontalScrollIndicator={false}
                   ItemSeparatorComponent={() => <View className="w-4" />}
-                  // scrollEnabled={false}
-                  // numColumns={3}
-                  // columnWrapperStyle={{
-                  //   justifyContent: "flex-start",
-                  //   gap: 20,
-                  //   paddingRight: 5,
-                  //   marginBottom: 10,
-                  // }}
                 />
               </View>
             )}
