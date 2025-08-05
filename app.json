@@ -13,7 +13,8 @@
       "infoPlist": {
         "NSLocationWhenInUseUsageDescription": "This app needs location access to get network information.",
         "NSLocationAlwaysAndWhenInUseUsageDescription": "This app needs location access to get network information."
-      }
+      },
+      "bundleIdentifier": "com.decryptus.decryptusmovieapp"
     },
     "android": {
       "adaptiveIcon": {
@@ -41,8 +42,8 @@
         "expo-splash-screen",
         {
           "image": "./assets/images/splash.png",
-          "imageWidth": 200,
-          "resizeMode": "contain",
+          "imageWidth": 1000,
+          "resizeMode": "cover",
           "backgroundColor": "#ffffff"
         }
       ]
