@@ -18,9 +18,9 @@ expo-env.d.ts
 *.key
 *.mobileprovision
 
-android/
-ios/
-*gradle-8.13-bin.zip 
+# android/
+# ios/
+# *gradle-8.13-bin.zip 
 
 # Metro
 .metro-health-check*
